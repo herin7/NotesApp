@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 #### Clone the Repository
 ```bash
-[git clone https://github.com/herin7/NotesApp.git
+git clone https://github.com/herin7/NotesApp.git
 cd NotesApp
 ```
 ### Backend Setup
