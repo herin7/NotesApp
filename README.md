@@ -16,7 +16,7 @@ This repository contains the source code for a full-stack web application built 
 - Generic form components for easy reuse.
 
 ## 🔧 Tech Stack
-- **Backend:** Python, Django, Django REST Framework, PostgreSQL
+- **Backend:** Python, Django, Django REST Framework
 - **Frontend:** React, Axios, JavaScript, CSS
 - **Authentication:** JSON Web Tokens (JWT)
 
@@ -26,7 +26,7 @@ This repository contains the source code for a full-stack web application built 
 Ensure you have the following installed:
 - Python 3.x
 - Node.js and npm
-- PostgreSQL or SQLite (for development)
+- SQLite (for development)
 
 ### Installation
 
